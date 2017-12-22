@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moon Tales</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lunar_data">LunarData</string>
+</resources>
